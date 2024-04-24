@@ -1,6 +1,6 @@
 [
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Introductory Note",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -259,7 +259,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Declaration of Faith",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -319,7 +319,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Metaphrase of the Book of Ecclesiastes",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -1095,7 +1095,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Canonical Epistle",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -1371,7 +1371,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Oration to Origen",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -2430,7 +2430,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Confession of Faith [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -3151,7 +3151,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: On the Trinity [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -3301,7 +3301,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Twelve Topics of the Faith [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -3641,7 +3641,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: On the Subject of the Soul [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -4015,7 +4015,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: Four Homilies [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5209,7 +5209,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: On all the Saints [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5341,7 +5341,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Gregory Thaumaturgus: On The Gospel of Matthew [SPURIOUS]",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5381,7 +5381,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Introductory Note",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5577,7 +5577,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: On the Promises",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5827,7 +5827,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: On Nature",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -6178,7 +6178,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Against Sabellius",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -6227,7 +6227,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Epistle to Dionysius",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -6521,7 +6521,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Epistle to the Bishop Basilides",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -6723,7 +6723,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Fragments of Epistles",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -7700,7 +7700,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Commentary on Ecclesiastes",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -8098,7 +8098,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: The Gospel According to Luke",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -8610,7 +8610,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: On John VIII",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -8659,7 +8659,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Of the One Substance",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -8687,7 +8687,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: On the Reception of the Lapsed to Penitence",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -8724,131 +8724,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Julius Africanus Introductory Note:   ––."
-					},
-					{
-						"text": "In a former volume, strengthened by a word from Archbishop Usher, I have not hesitated to claim for Theophilus of Antioch a primary place among Christian chronologists."
-					},
-					{
-						"text": "It is no detraction from the fame of our author to admit this, and truth requires it."
-					},
-					{
-						"text": "But the great Alexandrian school must again come into view when we speak of any considerable achievements, among early Christian writers, in this important element of all biblical, in fact, all historical, science."
-					},
-					{
-						"text": "Africanus was a pupil of Heraclas, and we must therefore date his pupilage in Alexandria before  , when Dionysius succeeded Heraclas in the presidency of that school."
-					},
-					{
-						"text": "It appears that in   he was performing some duty in behalf of Emmaus (Nicopolis) in Palestine; but Heraclas, who had acted subordinately as Origen's assistant as early as  , could not have become the head of the school, even provisionally, till after Origen's unhappy ordination."
-					},
-					{
-						"text": "Let us assume the period of our author's attending the school under Heraclas to be between   and  , however."
-					},
-					{
-						"text": "We may then venture to reckon his birth as circa."
-					},
-					{
-						"text": "And, if he became \"bishop of Emmaus,\" it could hardly have been before the year , when he was of ripe age and experience."
-					},
-					{
-						"text": "He adds additional lustre to the age of Gregory Thaumaturgus and Dionysius, as well as to that of their common mother in letters and theology, the already ancient academy of Pantaenus and of Clement."
-					},
-					{
-						"text": "His reviving credit in modern times has been largely due to the learned criticism of Dr."
-					},
-					{
-						"text": "Routh, to whose edition of these Fragments the student must necessarily apply."
-					},
-					{
-						"text": "Their chief interest arises from the important specimen which treats of the difficult question of the genealogies of our Lord contained in the evangelists."
-					},
-					{
-						"text": "For a succinct statement of the points involved, and for a candid concession that they were not preserved to meet what modern curiosity would prefer to see established, I know of nothing more satisfactory than the commentary of Wordsworth, from which I have borrowed almost wholly one of my elucidations."
-					},
-					{
-						"text": "The reader will remember the specimen of our author's critical judgment which is given with the works of Origen."
-					},
-					{
-						"text": "He differed with that great author, and the Church Catholic has sustained his judgment as just."
-					},
-					{
-						"text": "I regret that the Edinburgh editors thought it necessary to make the Letter to Origen concerning the Apocryphal Book of Susannah a mere preface to Origen's answer."
-					},
-					{
-						"text": "It might have been quoted there as a preface; but it is too important not to be included here, with the other fragments of his noble contributions to primitive Christian literature."
-					},
-					{
-						"text": "It does not clearly appear, from the Edinburgh edition, who the translator is; but here follows the  Translator's Introductory Notice."
-					},
-					{
-						"text": "The principal facts known to us in the life of Africanus are derived from himself and the Chronicon of Eusebius."
-					},
-					{
-						"text": "He says of himself that he went to Alexandria on account of the fame of Heraclas."
-					},
-					{
-						"text": "In the Chronicon, under the year , it is stated that \"Nicopolis in Palestine, which formerly bore the name of Emmaus, was built, Africanus, the author of the Chronology, acting as ambassador on behalf of it, and having the charge of it\"."
-					},
-					{
-						"text": "Dionysius Bar-Salibi speaks of Africanus as bishop of Emmaus."
-					},
-					{
-						"text": "Eusebius describes Africanus as being the author of a work called κεστοί."
-					},
-					{
-						"text": "Suidas says that this book detailed various kinds of cures, consisting of charms and written forms, and such like."
-					},
-					{
-						"text": "Some have supposed that such a work is not likely to have been written by a Christian writer: they appeal also to the fact that no notice is taken of the κεστοί by Jerome in his notice of Africanus, nor by Rufinus in his translation of Eusebius."
-					},
-					{
-						"text": "They therefore deem the clause in Eusebius an interpolation, and they suppose that two bore the name of Africanus,—one the author of the κεστοί, the other the Christian writer."
-					},
-					{
-						"text": "Suidas identifies them, says that he was surnamed Sextus, and that he was a Libyan philosopher."
-					},
-					{
-						"text": "The works ascribed to Africanus, beside the Cesti, are the following:—."
-					},
-					{
-						"text": "Five Books of Chronology."
-					},
-					{
-						"text": "Photius says of this work, that it was concise, but omitted nothing of importance."
-					},
-					{
-						"text": "It began with the cosmogony of Moses, and went down to the advent of Christ."
-					},
-					{
-						"text": "It summarized also the events from the time of Christ to the reign of the Emperor Macrinus."
-					},
-					{
-						"text": "A very famous letter to Aristides, in which he endeavoured to reconcile the apparent discrepancies in the genealogies of Christ given by Matthew and Luke."
-					},
-					{
-						"text": "A letter to Origen, in which he endeavoured to prove that the story of Susanna in Daniel was a forgery."
-					},
-					{
-						"text": "A translation of this letter has been given with the Works of Origen."
-					},
-					{
-						"text": "The Acts of Symphorosa and her Seven Sonsare attributed in the mss."
-					},
-					{
-						"text": "to Africanus; but no ancient writer speaks of him as the author of this work."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Julius Africanus: Epistle to Aristides",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -9054,7 +8930,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Julius Africanus: Narrative of the Events in Persia on the Birth of Christ",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -9376,7 +9252,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Julius Africanus: On the Mythical Chronology of the Egyptians and Chaldeans",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -10166,7 +10042,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -10445,7 +10321,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Anatolius of Alexandria: Paschal Canon",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11042,7 +10918,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Anatolius of Alexandria: Fragments of the Books on Arithmetic",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11187,7 +11063,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Alexander of Cappadocia: Epistle to the People of Antioch",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11269,7 +11145,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Theognostus of Alexandria: From His Seven Books of Hypotyposes or Outlines",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11325,7 +11201,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11391,7 +11267,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Theonas of Alexandria: To Lucianus",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11675,7 +11551,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Epistle of Phileas",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -11876,7 +11752,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Phamphilus: An Expostition of the Chapters of the Acts of the Apostles",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -12525,7 +12401,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Epistle of Malchion",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -12783,7 +12659,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Archalaus and the Acts of Disputation",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -16382,7 +16258,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Fragments of Archalaus",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -16676,7 +16552,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Alexander of Lycopolis: Introductory Note",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -16746,7 +16622,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Alexander of Lycopolis: Of the Manichaeans",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -18035,131 +17911,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Peter of Alexandria:  ––."
-					},
-					{
-						"text": "Entering upon the fourth century, we may well pause to reflect upon what Alexandria has been to the Church of Christ,—the mother of churches, the mother of saints, maintaining always the intellectual and even the ecclesiastical primacy of Christendom."
-					},
-					{
-						"text": "\"Ye are the light of the world,\" said the great Enlightener to the Galileans of an obscure and despised Roman province."
-					},
-					{
-						"text": "But who could have prophesied that Egypt should again be the pharos of the world, as it was in Moses? Who could have foreseen the \"men of Galilee\" taking possession of the Alexandrian Library, and demonstrating the ways of Providence in creating the Bible of the Seventy, and in the formation of the Hellenistic Greek, for their ultimate use? Who could have imagined the Evangelist Mark and the eloquent Apollos to be the destined instruments for founding the schools of Christendom, and shaping scientific theology? Who would not have looked for all this in some other way, and preferably in Athens or in Rome? But who would have expected the visit of God Incarnate to Nazareth, and not to Alexandria?  In Peter's day Antioch was coming to be a school under the influence of Malchion's genius and that of the bishops who withstood Paulus of Samosata."
-					},
-					{
-						"text": "Malchion had taught there in the \"School of Sciences,\" and learning was once more to be made the handmaid of true religion."
-					},
-					{
-						"text": "But Alexandria was still the seat of Christian illumination and the fountain of orthodoxy; its very ferment always clarifying its thought, and leaving \"wine well refined,\" and pure from the lees."
-					},
-					{
-						"text": "To this subject I shall have occasion to refer again in an elucidation subjoined to the works of Alexander (successor to Peter), in which, for a final view of the great Alexandrian school, I shall gather up some fragments in brief outline."
-					},
-					{
-						"text": "Here it may be enough to remark, that, until the definite development of the school of Antioch (circa  ), I have regarded the whole Orient as dominated and formed by the brain of the grand metropolis of Egypt and the Pentapolis."
-					},
-					{
-						"text": "I have considered the great Dionysius as really presiding in the Synod of Antioch, though absent in the body, and have regarded Malchion as his voice in that council, which we must not forget was presided over by Firmilian, a pupil of Origen, and a true Alexandrian disciple."
-					},
-					{
-						"text": "Peter's conflict with Meletius shall be noted in an elucidation."
-					},
-					{
-						"text": "We shall see that the heresy of Paulus as well as the Meletian schism are but chapters in one prolonged history, of which the outcrop was Arianism."
-					},
-					{
-						"text": "Now, as to Alexandria we owe the intrepid defenders of truth in all these conflicts, we must not forget that they are to be judged by the product of their united testimony, and not by their occasional individualisms and infirmities of mind and speech while they were creating the theological dialect of Christendom and the formulas of orthodoxy."
-					},
-					{
-						"text": "Peter was able to maintain his canonical authority against the mischievous rebellion of Meletius; and the history of this schism is forcibly illustrative of those ἀρχαῖα ἔθη which the Nicene Synod recognized, confirming the primacy of Alexandria, and striving to suppress Meletianism by firm but moderate measures based upon the primitive maxims."
-					},
-					{
-						"text": "Peter left a pure and holy memory to the Church, and sealed his testimony in martyrdom."
-					},
-					{
-						"text": "Translator's Introductory Notice."
-					},
-					{
-						"text": "Eusebius alone, of the more ancient writers, speaks in terms of the highest praise of Peter, Bishop of Alexandria."
-					},
-					{
-						"text": "He was, says he, a divine bishop, both for the sanctity of his life, and also for his diligent study and knowledge of the Holy Scriptures; and in another place he styles him \"that excellent doctor of the Christian religion,\" who, indeed, during the whole period of his episcopate, which he held for twelve years, obtained for himself the highest renown."
-					},
-					{
-						"text": "He obtained the bishopric of Alexandria next in succession to Theonas."
-					},
-					{
-						"text": "He governed that church about three years before the persecution broke out: the rest of his time he spent in the exercise of a closer discipline over himself, yet did he not in the meanwhile neglect to provide for the common interests of the Church."
-					},
-					{
-						"text": "In the ninth year of the persecution he was beheaded, and gained the crown of martyrdom."
-					},
-					{
-						"text": "So far we have the account of Eusebius, whom Dodwell proves to have accurately distributed the years of Peter's episcopate."
-					},
-					{
-						"text": "After Peter had spent twelve years as bishop, and in the ninth year of the persecution which broke out under Maximin, he was beheaded; so that his martyrdom falls in the year of our Lord —as the Egyptians reckon on the th day of the month Athyr, which answers to our th of November, as Lequien, after Renaudot, has observed."
-					},
-					{
-						"text": "St."
-					},
-					{
-						"text": "Peter wrote in the fourth year of the persecution,  , some Canons Penitential with reference to those who had lapsed."
-					},
-					{
-						"text": "They are to be met with in every collection of Canons."
-					},
-					{
-						"text": "In the Pandecta Canonum of Bishop Beveridge, they are accompanied by the notes of Joannes Zonaras and Theodorus Balsamon."
-					},
-					{
-						"text": "Upon these Penitential Canons, however, Tillemont should be consulted."
-					},
-					{
-						"text": "Moreover, according to Renaudot, Echmimensis, Ebnapalus, Abulfaragius, and other Oriental Christians of every sect, make use of the testimony of these Canons; and in the anonymous collections of them called Responsa, some fragments of other works of Peter are extant."
-					},
-					{
-						"text": "Some of these are praised by the Jacobites, in the work which they call Fides patrum."
-					},
-					{
-						"text": "In another work, entitled Unio pretiosus, occurs a homily of Peter on the baptism of Christ."
-					},
-					{
-						"text": "The fragments of the other writings of this holy martyr, which have been preserved by the Greeks, are here appended to the Penitential Canons."
-					},
-					{
-						"text": "For instance: () An extract from his book De Deitate, which is extant in the Acta Conciliorum Ephesini et Chalcedonensis; () Another fragment from the homily De Adventu Salvatoris, cited by Leontius Byzantinus in his first book against Nestorius and Eutyches; () An epistle of the same prelate to the Alexandrine Church recently published, together with some other old ecclesiastical monuments by Scipio Maffei."
-					},
-					{
-						"text": "Peter is said to have written this epistle after one addressed to Meletius, Bishop of Lycopolis."
-					},
-					{
-						"text": "In it, after interdicting the Alexandrians from communion with Meletius, he says that he will himself come in company with some wise doctors, and will examine into his tenets; alluding, most probably, to the synod held afterwards at Alexandria, in which Meletius was deposed from his office."
-					},
-					{
-						"text": "Athanasius says, respecting this synod, \"Peter, who was amongst us as bishop before the persecution, and who died a martyr in the persecution, deposed in common council of the bishops, Meletius, an Egyptian bishop, who had been convicted of many crimes\"."
-					},
-					{
-						"text": "But with respect to the time in which the mournful Meletian schism commenced, Maffei defends the opinions of Baronius, who connects it with the year  , against Pagius and Montfaucon, both from this epistle of Petrus Alexandrinus, and also from another of the four bishops, of which Peter makes mention in his own; () A passage from the Sermo in Sanctum Pascha, or from some other work of Peter's on the same subject, is given in the Diatriba de Paschate, prefixed to the Chronicon Alexandrinum S."
-					},
-					{
-						"text": "Paschale, and published separately in the Uranologion of Petavius, fol."
-					},
-					{
-						"text": "Paris, , p."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Peter of Alexandria: Genuine Acts of Peter",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -18736,7 +18488,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Peter of Alexandria: Canonical Epistle",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -19572,7 +19324,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Peter of Alexandria: Fragments",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -20116,128 +19868,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Alexander of Alexandria Introductory Notice:  ––."
-					},
-					{
-						"text": "The records of the Ante-Nicene period, so far as Alexandria is concerned, are complete in this great primate, the friend and patron of Athanasius, and, with him, the master-spirit of the great Council of Nicaea."
-					},
-					{
-						"text": "I have so arranged the \"Fragments\" of the Edinburgh series in this volume as to make them a great and important integer in rounding out and fulfilling the portraiture of the school and the See of Alexandria."
-					},
-					{
-						"text": "The student will thus have at hand the materials for a covetable survey of the Alexandrian Fathers,—their history, their influence, and their immense authority in early Christendom."
-					},
-					{
-						"text": "In an elucidation I venture to condense my thoughts upon some points which it has been the interest of unbelievers to misrepresent, and to colour for their own purposes."
-					},
-					{
-						"text": "But, as the limitations of my editorial duty do not allow me to enter upon a dissertation, I am thankful to refer the reader to the truly valuable though by no means exhaustive work of Dr."
-					},
-					{
-						"text": "Neale on The Patriarchate of Alexandria."
-					},
-					{
-						"text": "His statements are not, indeed, to be received with unreserving confidence; for, in spite of his pure and lofty purposes, his mind had been formed under the strong bias of a transient fashion in divinity, and he always surveyed his subject from an Occidental if not from a Latin (I do not mean a strictly Roman) point of view."
-					},
-					{
-						"text": "To other popular historians I need not refer the student, save, by anticipation, to the list of authorities which will be furnished in the concluding volume of this series."
-					},
-					{
-						"text": "Let us reflect, then, upon the epoch to which we have now come."
-					},
-					{
-						"text": "The intense sufferings, labours, and intellectual as well as moral struggles, of the three heroic centuries, are closing, and Alexander of Alexandria is the grand figure of the period."
-					},
-					{
-						"text": "Diocletian is preparing to let loose upon the sheep of Christ the ferocious wolves of the tenth persecution."
-					},
-					{
-						"text": "Lucian is founding the school of Antioch, revising the New Testament, and, in fact, the whole Bible of the Fathers, for his labours included the version of the Seventy."
-					},
-					{
-						"text": "Unhappily, the ambitious Arius, who calls him master, has begun to trouble the evangelical See of St."
-					},
-					{
-						"text": "Mark; and Achillas, notwithstanding the warnings of Peter, has laid hands upon him, and made him a presbyter."
-					},
-					{
-						"text": "He aspires to be made a bishop."
-					},
-					{
-						"text": "But anon a boy is playing on the shore at Alexandria in whom a flaming genius for the priesthood already manifests itself."
-					},
-					{
-						"text": "Alexander, looking forth from his windows, sees him \"playing church\" with his schoolmates, and actually dipping a young pagan in the sea, \"in the name of the Father,\" etc."
-					},
-					{
-						"text": "No doubt something of the kind did occur, and thus was the boy Athanasius brought to the notice of his bishop."
-					},
-					{
-						"text": "But even Dupin rejects the rest of the story, that Alexander decided the question of the boy-baptism in favour of its validity, as the Latins would have us believe."
-					},
-					{
-						"text": "Anyhow, we have this miracle of precocity attending Alexander as his deacon at the Council of Nicaea, and then soon after succeeding to his episcopal chair."
-					},
-					{
-						"text": "Athanasius is the grandest figure of the primitive ages after the apostles fell asleep."
-					},
-					{
-						"text": "Raised up to complete their testimony to the eternal Logos, and to suffer like them, we soon behold him the noble example of constancy against the new perils of the world's favour and the patronage of the Caesars."
-					},
-					{
-						"text": "\"Athanasius against the world\" was in two senses his great encomium, and the epitome of his glorious life and warfare."
-					},
-					{
-						"text": "Not less was it \"Athanasius for the world\"."
-					},
-					{
-						"text": "Alas! the majestic school of Pantaenus and Clement soon after comes to its enigmatical decline."
-					},
-					{
-						"text": "Some plants, when they have borne their superlative flower and fruit, mysteriously decay."
-					},
-					{
-						"text": "It was so, alas! with the great Christian academy that not improbably owes its beginnings to Apollos."
-					},
-					{
-						"text": "Translator's Introductory Notice."
-					},
-					{
-						"text": "Alexander was appointed successor to Achillas, as Bishop of Alexandria, about."
-					},
-					{
-						"text": "The virtues of this prelate, which Eusebius has passed over entirely without mention, other ecclesiastical writers have greatly extolled."
-					},
-					{
-						"text": "For on all sides he is styled \"the staunchest upholder of evangelical doctrine,\" \"the patron and protector of apostolic doctrine;\" and \"that bishop of divine faith, full of wisdom and of zeal enkindled by the Holy Spirit\"."
-					},
-					{
-						"text": "He was the first to detect and to condemn Arius; and taking his stand upon passages of Holy Scripture, as Theodoret remarks, he taught that the Son of God was of one and the same majesty with the Father, and had the same substance with the Father who begat Him."
-					},
-					{
-						"text": "At first he sought to bring back Arius from his heresy."
-					},
-					{
-						"text": "But when he perceived that he openly and obstinately taught his false doctrines, he assembled a first and then a second synod of the bishops of Egypt, and degraded him from the order of the priesthood, and cut him off from the communion of the Church."
-					},
-					{
-						"text": "This proving ineffectual, the Council of Nicaea was convened, in which he was finally condemned."
-					},
-					{
-						"text": "In combating the Arian heresy, Alexander endured, although at a great age, many trials, and died shortly after the holding of the council."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Alexander of Alexandria: On the Arian Heresy",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -21423,95 +21054,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Methodius Introductory Notice:  –."
-					},
-					{
-						"text": "Considering the strong language in which Methodius is praised by ancient writers, as well as by the moderns, I feel that our learned translator has too hastily dismissed his name and works in the biographical introduction below."
-					},
-					{
-						"text": "Epiphanius makes great use of him in his refutations of Origen; and Dupin's critical and historical notice of him is prolonged and highly discriminating, furnishing an abridgment of all his writings and of those vulgarly attributed to him heretofore."
-					},
-					{
-						"text": "I have made into an elucidation some references which may be of use to the student."
-					},
-					{
-						"text": "In like manner, I have thrown into the form of notes and elucidations what would be less pertinent and less useful in a preface."
-					},
-					{
-						"text": "There are no facts to be added to what is here given by the translator; and remarks on the several works, which he has too sparingly annotated, will be more conveniently bestowed, perhaps, on the pages to which they immediately refer."
-					},
-					{
-						"text": "The following is the translator's brief but useful  Introduction."
-					},
-					{
-						"text": "Methodius, who is also called Eubulius, was, first of all bishop, simultaneously of Olympus and Patara, in Lycia, as is testified by several ancient writers."
-					},
-					{
-						"text": "He was afterwards removed, according to St."
-					},
-					{
-						"text": "Jerome, to the episcopal See of Tyre in Phoenicia, and at the end of the latest of the great persecutions of the Church, about the year , he suffered martyrdom at Chalcis in Greece."
-					},
-					{
-						"text": "Some consider that it was at Chalcis in Syria, and that St."
-					},
-					{
-						"text": "Jerome's testimony ought to be thus understood, as Syria was more likely to be the scene of his martyrdom that Greece, as being nearer to his diocese."
-					},
-					{
-						"text": "Others affirm that he suffered under Decius and Valerian; but this is incorrect, since he wrote not only against Origen long after the death of Adamantius, but also against Porphyry, whilst he was alive, in the reign of Diocletian."
-					},
-					{
-						"text": "Methodius is known chiefly as the antagonist of Origen; although, as has been pointed out, he was himself influenced in no small degree by the method of Origen, as may be seen by his tendency to allegorical interpretations of Holy Scripture."
-					},
-					{
-						"text": "The only complete work of this writer which has come down to us is his Banquet of the Ten Virgins, a dialogue of considerable power and grace, in praise of the virginal life."
-					},
-					{
-						"text": "His antagonism to Origen, however, comes out less in this than in his works On the Resurrection, and On Things Created."
-					},
-					{
-						"text": "The treatise On Free Will is, according to recent critics, of doubtful authorship, although the internal evidence must be said to confirm the ancient testimonies which assign it to Methodius."
-					},
-					{
-						"text": "His writings against Porphyry, with the exception of some slight fragments, are lost, as are also his exegetical writings."
-					},
-					{
-						"text": "Combefis published an edition of his works in ; but only so much of the Banquet as was contained in the Bibliotheca of Photius."
-					},
-					{
-						"text": "In  Leo Allatius published for the first time a complete edition of this work at Rome from the Vatican ms."
-					},
-					{
-						"text": "Combefis in  published an edition founded chiefly upon this; and his work has become the basis of all subsequent reprints."
-					},
-					{
-						"text": "The following translation has been made almost entirely from the text of Migne, which is generally accurate, and the arrangement of which has been followed throughout."
-					},
-					{
-						"text": "The edition of Jahn in some places rearranges the more fragmentary works, especially that On the Resurrection; but, although his text was occasionally found useful in amending the old readings, and in improving the punctuation, it was thought better to adhere in general to the text which is best known."
-					},
-					{
-						"text": "A writer who was pronounced by St."
-					},
-					{
-						"text": "Epiphanius to be \"a learned man and a most valiant defender of the truth,\" and by St."
-					},
-					{
-						"text": "Jerome, disertissimus martyr, who elsewhere speaks of him as one who nitidi compositique sermonis libros confecit, cannot be altogether unworthy the attention of the nineteenth century."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins Intro",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -21659,7 +21202,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Marcella",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -21887,7 +21430,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Theophila",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -22146,7 +21689,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Thaleia",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -22698,7 +22241,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Theopatra",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -22895,7 +22438,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Thallousa",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -23213,7 +22756,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Agathe",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -23426,7 +22969,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Procilla",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -23752,7 +23295,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Thekla",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -24592,7 +24135,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Tusiane",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -24874,7 +24417,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Domnina",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -25152,7 +24695,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Banquet of the Ten Virgins - Arete",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -25826,98 +25369,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Elucidations."
-					},
-					{
-						"text": "I."
-					},
-					{
-						"text": "(We here behold only shadows, etc."
-					},
-					{
-						"text": ", p."
-					},
-					{
-						"text": ")  Schleiermacher, in commenting on Plato's Symposium, remarks: \"Even natural birth (i-e:, in Plato's system) was nothing but a reproduction of the same eternal form and idea."
-					},
-					{
-						"text": "…The whole discussion displays the gradation, not only from that pleasure which arises from the contemplation of personal beauty through that which every larger object, whether single or manifold, may occasion, to that immediate pleasure of which the source is in the Eternal Beauty,\" etc."
-					},
-					{
-						"text": "Our author ennobles such theorizing by mounting up to the great I Am."
-					},
-					{
-						"text": "II."
-					},
-					{
-						"text": "(Christ Himself is the one who is born, p."
-					},
-					{
-						"text": ")  Wordsworth, and many others of the learned, sustain our author's comment on this passage."
-					},
-					{
-						"text": "So Aquinas, ad loc."
-					},
-					{
-						"text": ", Bede, and many others."
-					},
-					{
-						"text": "Methodius is incorrectly represented as rejecting the idea that \"the woman\" is the Blessed Virgin Mary, for no such idea existed for him to reject."
-					},
-					{
-						"text": "He rejects the idea that the man-child is Christ; but that idea was connected with the supposition that the woman was the Church of the Hebrews bringing forth the Messiah."
-					},
-					{
-						"text": "Gregory the Great regards the woman as the Christian Church."
-					},
-					{
-						"text": "So Hippolytus: \"By the woman…is meant most manifestly the Church, endued with the Father's Word, whose brightness is above the sun,\" etc."
-					},
-					{
-						"text": "Bossuet says candidly, \"C'est l'Église, tout éclatante de la lumière de J."
-					},
-					{
-						"text": "C."
-					},
-					{
-						"text": ",\" etc."
-					},
-					{
-						"text": "Now, note the progress of corruption, one fable engendering another."
-					},
-					{
-						"text": "The text of Gen."
-					},
-					{
-						"text": "iii."
-					},
-					{
-						"text": ", contrary to the Hebrew, the Seventy, the Syriac, and the Vulgate itself, in the best mss."
-					},
-					{
-						"text": ", is made to read, \"She shall bruise thy head,\" etc."
-					},
-					{
-						"text": "The \"woman,\" therefore, becomes the Mother of our Lord, and the \"great red dragon\" (of verse ), from which the woman \"fled into the wilderness,\" is next represented as under her feet (where the moon appears in the sacred narrative); and then the Immaculate Conception of her Holy Seed is transferred back to the mother of Mary, who is indecently discussed, and affirmed to have been blest with an \"Immaculate Conception\" when, in the ordinary process of nature, she was made the mother of the Virgin."
-					},
-					{
-						"text": "So, then, the bull Ineffabilis—comes forth, eighteen hundred years after the event, with the announcement that what thousands of saints and many bishops of Rome have denounced as a fable must be received by all Christians on peril of eternal damnation."
-					},
-					{
-						"text": "The worst of it all is the fact, that, as the mystery of the Incarnation of the Son of God has heretofore been the only \"Immaculate Conception\" known to the faith of Christendom, thousands now imagine that this is what was only so lately set forth, and what we must therefore renounce as false."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Methodius: Concerning Free Will",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -26725,7 +26177,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: On the Resurrection",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -27887,7 +27339,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: History of Jonah",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -27966,7 +27418,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: From the Work on Things Created",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -28270,7 +27722,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Against Porphyry",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -28310,7 +27762,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Concerning Martyrs",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -28326,29 +27778,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "General Note."
-					},
-					{
-						"text": "(Vexillas,—as they are called, p."
-					},
-					{
-						"text": ")  It is very curious to note how certain ideas are inherited from the earliest Fathers, and travel down, as here, to find a new expression in a distant age."
-					},
-					{
-						"text": "Here our author reflects Justin Martyr, and the Labarum itself is the outcrop of what Justin wrote to Antoninus Pius."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Methodius: Oration Concerning Simeon and Anna",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29144,7 +28574,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Oration on the Psalms",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29498,13 +28928,13 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Fragments from the Homily on the Cross",
 		"chapters": [
 			{
 				"chapter": 1,
 				"verses": [
 					{
-						"text": "Fragments from teh Homily on the Cross: I."
+						"text": "Fragments from the Homily on the Cross: I."
 					},
 					{
 						"text": "Methodius, Bishop, to those who say: What doth it profit us that the Son of God was crucified upon earth, and made man? And wherefore did He endure to suffer in the manner of the cross, and not by some other punishment? And what was the advantage of the cross?  Christ, the Son of God, by the command of the Father, became conversant with the visible creature, in order that, by overturning the dominion of the tyrants, the demons, that is, He might deliver our souls from their dreadful bondage, by reason of which our whole nature, intoxicated by the draughts of iniquity, had become full of tumult and disorder, and could by no means return to the remembrance of good and useful things."
@@ -29638,7 +29068,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Other Fragments",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29808,7 +29238,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Methodius: Two Fragments",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29835,446 +29265,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
-		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "Arnobius Introductory Note:  –."
-					},
-					{
-						"text": "Arnobius appears before us, not as did the earlier apologists, but as a token that the great struggle was nearing its triumphant close."
-					},
-					{
-						"text": "He is a witness that Minucius Felix and Tertullian had not preceded him in vain."
-					},
-					{
-						"text": "He is a representative character, and stands forth boldly to avow convictions which were, doubtless, now struggling into light from the hearts of every reflecting pagan in the empire."
-					},
-					{
-						"text": "In all probability it was the alarm occasioned by tokens that could not be suppressed—of a spreading and deepening sense of the nothingness of Polytheism—that stimulated the oecumenical rage of Diocletian, and his frantic efforts to crush the Church, or, rather, to overwhelm it in a deluge of flame and blood."
-					},
-					{
-						"text": "In our author rises before us another contributor to Latin Christianity, which was still North-African in its literature, all but exclusively."
-					},
-					{
-						"text": "He had learned of Tertullian and Cyprian what he was to impart to his brilliant pupil Lactantius."
-					},
-					{
-						"text": "Thus the way was prepared for Augustine, by whom and in whom Latin Christianity was made distinctly Occidental, and prepared for the influence it has exerted, to this day, under the mighty prestiges of his single name."
-					},
-					{
-						"text": "And yet Arnobius, like Boethius afterwards, is much discredited, and has even been grudged the name of a Christian."
-					},
-					{
-						"text": "Coleridge is one of the many who have disparaged Arnobius, but he always talked like an inspired madman, and often contradicted himself."
-					},
-					{
-						"text": "Enough to say, that, emerging from gross heathenism in mature life, and forced to learn as he could what is now taught to Christian children, our author is a witness to the diffusion of truth in his day."
-					},
-					{
-						"text": "He shows also such a faculty of assimilation, that, as a practical Christian, Coleridge himself does not shine in comparison; and if, as is probable, he closed his life in martyrdom, we may well be ashamed to deny him our gratitude and the tribute of our praise."
-					},
-					{
-						"text": "Our author is an interesting painter of many features of paganism in conflict with the Church, which we gain from no one else."
-					},
-					{
-						"text": "Economizing Clement of Alexandria, he advances to an assured position and form of assault."
-					},
-					{
-						"text": "He persistently impeaches Jove himself in a daring confidence that men will feel his terrible charges to be true, and that the victory over heathenism is more than half gained already."
-					},
-					{
-						"text": "I doubt not that, as a heathen, he was influenced by a dream to study Christianity."
-					},
-					{
-						"text": "As a believer, he discarded dreams as vain."
-					},
-					{
-						"text": "Converted late in life, we need not wonder at some tokens of imperfect knowledge; but, on the whole, he seems a well-informed disciple, and shows how thoroughly the catechumens were trained."
-					},
-					{
-						"text": "But what does he prove? In short, he gives us a most fascinating insight into the mental processes by which he, and probably Constantine soon after him, came to the conclusion that heathenism was outworn and must disappear."
-					},
-					{
-						"text": "He proves that the Church was salt that had not \"lost its savour\"."
-					},
-					{
-						"text": "It is true, that, reasoning with pagans, he does not freely cite the Scriptures, which had no force with them; yet his references to the facts of Scripture show that he had studied them conscientiously, and could present the truths of the Gospel clearly and with power."
-					},
-					{
-						"text": "Lardner has demonstrated this in a fair spirit and with conclusive evidence."
-					},
-					{
-						"text": "Referring the reader to his admirable criticisms, I am glad to say that a full and satisfactory outline of his career is presented in the following:—  Translator's Introductory Notice."
-					},
-					{
-						"text": "Arnobius has been most unjustly neglected in modern times; but some excuse for this may be found in the fact that even less attention seems to have been paid to him in the ages immediately succeeding his own."
-					},
-					{
-						"text": "We find no mention of him in any author except Jerome; and even Jerome has left only a few lines about him, which convey very little information."
-					},
-					{
-						"text": "In his list of ecclesiastical writers he says, \"During the reign of Diocletian, Arnobius taught rhetoric with the greatest success, at Sicca, in Africa, and wrote against the heathen the books extant;\" and again speaks of this work more particularly when he says, \"Arnobius published seven books against the heathen\"."
-					},
-					{
-						"text": "In his Chronicon, however, he writes under the year , \"Arnobius is considered a distinguished rhetorician in Africa, who, while engaged at Sicca in teaching young men rhetoric, was led by visions to the faith; and not being received by the bishop as hitherto a persistent enemy to Christ, composed very excellent books against his former belief\"."
-					},
-					{
-						"text": "It must at once be seen that there is here a mistake, for Arnobius is put some twenty-three years later than in the former passage."
-					},
-					{
-						"text": "Jerome himself shows us that the former date is the one he meant, for elsewhere he speaks of Lactantius as the disciple of Arnobius."
-					},
-					{
-						"text": "Lactantius, in extreme old age, was appointed tutor of Constantine's son Crispus; and this, we are told in the Chronicon, was in the year."
-					},
-					{
-						"text": "No one will suppose that if the disciple was a very old man in , his master could have been in his prime in."
-					},
-					{
-						"text": "It is certain, therefore, that this date is not correct; and it seems very probable that Oehler's conjecture is true, who supposes that Jerome accidentally transposed his words from the year  to the place where we find them, misled by noticing the vicenalia of Constantine when he was looking for those of Diocletian."
-					},
-					{
-						"text": "It is with some difficulty that we can believe that Arnobius was led to embrace Christianity by dreams, as he speaks of these with little respect,—which he could hardly have done if by them the whole course of his life had been changed; but in our utter ignorance we cannot say that this may not have been to some extent the case."
-					},
-					{
-						"text": "The further statement, that his apology for Christianity was submitted as a proof of his sincerity to the bishop of Sicca, is even less credible,—for these two reasons, that it is evidently the fruit not of a few weeks' but of protracted labour, and that it is hardly likely that any bishop would have allowed some parts of it to pass into circulation."
-					},
-					{
-						"text": "It is just possible that the first or third books may have been so presented; but it is not credible that any pledge would be required of a man seeking to cast in his lot with the persecuted and terrified Church referred to in the fourth."
-					},
-					{
-						"text": "If we learn but little from external sources as to the life of Arnobius, we are not more fortunate when we turn to his own writings."
-					},
-					{
-						"text": "One or two facts, however, are made clear; and these are of some importance."
-					},
-					{
-						"text": "\"But lately,\" he says, \"O blindness, I worshipped images just brought from the furnaces, gods made on anvils and forged with hammers: now, led by so great a teacher into the ways of truth, I know what all these things are\"."
-					},
-					{
-						"text": "We have thus his own assurance of his conversion from heathenism."
-					},
-					{
-						"text": "He speaks of himself, however, as actually a Christian,—not as a waverer, not as one purposing to forsake the ancient superstitions and embrace the new religion, but as a firm believer, whose faith is already established, and whose side has been taken and stedfastly maintained."
-					},
-					{
-						"text": "In a word, he refers to himself as once lost in error, but now a true Christian."
-					},
-					{
-						"text": "Again, in different passages he marks pretty accurately the time or times at which he wrote."
-					},
-					{
-						"text": "Thus, in the first book he speaks of about three hundred years as the time during which Christianity had existed; and in the second, of a thousand and fifty, or not many less, having elapsed since the foundation of Rome."
-					},
-					{
-						"text": "There has been much discussion as to what era is here referred to; and it has been pretty generally assumed that the Fabian must be intended,—in which case  would be the year meant."
-					},
-					{
-						"text": "If it is observed, however, that Arnobius shows an intimate acquaintance with Varro, and great admiration for him, it will probably be admitted that it is most likely that the Varronian, or common, era was adopted by him; and in this case the year referred to will be   This coincides sufficiently with the passage in the first book, and is in harmony with the idea which is there predominant,—the thought, that is, of the accusation so frequently on the lips of the heathen, that Christianity was the cause of the many and terrible afflictions with which the empire was visited."
-					},
-					{
-						"text": "These accusations, ever becoming more bitter and threatening, would naturally be observed with care and attention by thoughtful Christians towards the close of the third century; and accordingly we find that the words with which Arnobius begins his apology, express the feeling of awakening anxiety with which he viewed the growth of this fear and hatred in the minds of the heathen."
-					},
-					{
-						"text": "He declares, in effect, that one great object—indeed the main object—which he had proposed to himself, was to show that it was not because of the Christians that fresh evils and terrible calamities were continually assailing the state."
-					},
-					{
-						"text": "And it must be remembered that we cannot refer such a proposal to a later period than that assigned."
-					},
-					{
-						"text": "It would certainly not have occurred to a Christian in the midst of persecution, with death overhanging him, and danger on every side, to come forward and attempt calmly to show the heathen that there was no reason for their complaints against the Christians."
-					},
-					{
-						"text": "In the later books there is a change in tone, upon which we cannot now dwell, although it is marked."
-					},
-					{
-						"text": "In one passage he asks indignantly, \"Why should our writings be given to the flames, our meetings be cruelly broken up, in which prayer is offered to the supreme God, peace and pardon are asked for all in authority, for soldiers, kings, friends, enemies?\" In the calm tranquillity of the last half of the third century these words could hardly have been written, but they are a striking testimony to the terms of the imperial edict issued in the year   So, too, the popular expression of anger and disgust at the anti-pagan character of some of Cicero's works belongs to the incipient stages of persecution."
-					},
-					{
-						"text": "Nor must it be supposed that the whole work may be referred to the era which ensued after the abdication of Diocletian, in."
-					},
-					{
-						"text": "From this time an apology for Christianity with such a design would have been an anachronism, for it was no longer necessary to disarm the fears of the heathen by showing that the gods could not be enraged at the Christians."
-					},
-					{
-						"text": "It has further to be noticed, that although it is perfectly clear that Arnobius spent much time on his apology, it has never been thoroughly revised, and does not seem to have been ever finished."
-					},
-					{
-						"text": "We surely have in all this sufficient reason to assign the composition of these books adversus Gentes to the end of the third and beginning of the fourth centuries."
-					},
-					{
-						"text": "Beyond this we cannot go, for we have no data from which to derive further inferences."
-					},
-					{
-						"text": "We have seen that the facts transmitted to us are very few and scanty indeed; but, few as they are, they suggest an interesting picture."
-					},
-					{
-						"text": "Arnobius comes before us in Sicca; we are made spectators of two scenes of his life there, and the rest—the beginning and the end—are shrouded in darkness."
-					},
-					{
-						"text": "Sicca Veneria was an important town, lying on the Numidian border, to the south-west of Carthage."
-					},
-					{
-						"text": "As its name signifies, it was a seat of that vile worship of the goddess of lust, which was dear to the Phoenician race."
-					},
-					{
-						"text": "The same cultus was found there which disgraced Corinth; and in the temple of the goddess the maidens of the town were wont to procure for themselves, by the sacrifice of their chastity, the dowries which the poverty of their parents could not provide."
-					},
-					{
-						"text": "In the midst of traditions of such bestial foulness Arnobius found himself,—whether as a native, or as one who had been led to settle there."
-					},
-					{
-						"text": "He has told us himself how true an idolater he was, how thoroughly he complied with the ceremonial demands of superstition; but the frequency and the vehemence of language with which his abhorrence of the sensuality of heathenism is expressed, tell us as plainly that practices so horrible had much to do in preparing his mind to receive another faith."
-					},
-					{
-						"text": "In strong contrast to the filthy indulgences with which paganism gratified its adherents, must have appeared the strict purity of life which was enjoined by Christianity and aimed at by its followers; and perhaps it was in such a place as Sicca that considerations of this nature would have most influence."
-					},
-					{
-						"text": "There, too, the story of Cyprian's martyrdom must have been well known,—may indeed have been told in the nursery of the young Arnobius,—and many traditions must have been handed down about the persistency with which those of the new religion had held fast their faith, in spite of exile, torture, and death."
-					},
-					{
-						"text": "However distorted such tales might be, there would always remain in them the evidence of so exalted nobility of spirit, that every disclosure of the meanness and baseness of the old superstition must have induced an uneasy feeling as to whether that could be impiety which ennobled men,—that piety which degraded them lower than the brutes."
-					},
-					{
-						"text": "For some time all went well with Arnobius."
-					},
-					{
-						"text": "He was not too pure for the world, and his learning and eloquence won him fame and success in his profession."
-					},
-					{
-						"text": "But in some way, we know not how, a higher learning was communicated to him, and the admired rhetorician became first a suspected, then a persecuted Christian."
-					},
-					{
-						"text": "He has left us in no doubt as to the reason of the change."
-					},
-					{
-						"text": "Upon his darkness, he says, there shone out a heavenly light, a great teacher appeared to him and pointed out the way of truth; and he who had been an earnest worshipper of images, of stones, of unknown gods, was now as earnest, as zealous in his service of the true God."
-					},
-					{
-						"text": "Of the trials which he must have endured we know nothing."
-					},
-					{
-						"text": "A terrible persecution swept over the world, and many a Christian perished in it."
-					},
-					{
-						"text": "Such a man as Arnobius must have been among the first to be assailed, but we hear of him no more."
-					},
-					{
-						"text": "With his learning and talents he could not have failed to make himself a name in the Church, or outside its pale, if he had lived."
-					},
-					{
-						"text": "The conclusion seems inevitable, that he was one of the victims of that last fiery trial to which Christians under the Roman empire were exposed."
-					},
-					{
-						"text": "The vast range of learning shown in this apology has been admitted on all sides."
-					},
-					{
-						"text": "Even Jerome says that it should at times be read on account of the learning displayed in it."
-					},
-					{
-						"text": "In another passage Jerome says, \"Arnobius is unequal and prolix, confused from want of arrangement\"."
-					},
-					{
-						"text": "This may be admitted to a certain extent; but although such defects are to be found in his work, they are certainly not characteristic of Arnobius."
-					},
-					{
-						"text": "So, too, many passages may be found strangely involved and mystical, and it is at times hard to understand what is really meant."
-					},
-					{
-						"text": "Solecisms and barbarisms are also met with, as Nourry has objected, so that it cannot be said that Arnobius writes pure Latin."
-					},
-					{
-						"text": "Still we must not be misled into supposing that by enumerating these defects we have a fair idea of his style."
-					},
-					{
-						"text": "If we remember that no man can wholly escape the influences of his age, and that Arnobius was so warm an admirer of Varro and Lucretius that he imitated their style and adopted their vocabulary, we shall be able to understand in what way he may be fairly spoken of as a good writer, although not free from defects."
-					},
-					{
-						"text": "His style is, in point of fact, clear and lucid, rising at times into genuine eloquence; and its obscurity and harshness are generally caused by an attempt to express a vague and indefinite idea."
-					},
-					{
-						"text": "Indeed very considerable power of expression is manifested in the philosophical reasonings of the second book, the keen satire of the fourth and fifth, and the vigorous argument of the sixth and seventh."
-					},
-					{
-						"text": "Jerome's last stricture is scarcely applicable."
-					},
-					{
-						"text": "Arnobius wrote adversus Gentes; he addressed himself to meet the taunts and accusations of the heathen, and in so doing he retorts upon them the charges which they preferred against the Christians."
-					},
-					{
-						"text": "His work must therefore be criticised from this standpoint, not as a systematic exposition or vindication of Christianity."
-					},
-					{
-						"text": "Christianity is indeed defended, but it is by attacking heathenism."
-					},
-					{
-						"text": "We must consider, also, that evidently the work was not revised as a whole, and that the last book would have been considerably altered had Arnobius lived or found opportunity to correct it."
-					},
-					{
-						"text": "If we remember these things, we shall find little to object to in the arrangement."
-					},
-					{
-						"text": "After making all deductions, it may be said fairly that in Arnobius the African Church found no unfitting champion."
-					},
-					{
-						"text": "Living amidst impurity and corruption, and seeing on every side the effects of a superstitious and sensual faith, he stands forward to proclaim that man has a nobler ideal set before him than the worship of the foul imaginations of his depraved fancy, to call his fellows to a purer life, and to point out that the Leader who claims that men should follow Him is both worthy and able to guide."
-					},
-					{
-						"text": "This he does with enthusiasm, vigour, and effect; and in doing this he accomplishes his end."
-					},
-					{
-						"text": "Various opinions have been entertained as to the position which Arnobius occupied with regard to the Bible."
-					},
-					{
-						"text": "We cannot here enter into a discussion of these, and shall merely present a brief statement of facts."
-					},
-					{
-						"text": "It is evident that with regard to the Jews and the Old Testament Arnobius was in a state of perfect ignorance; for he confounds the Sadducees with the Pharisees, makes no allusion to the history of the Israelites, and shows that he was not acquainted with their forms of sacrifice."
-					},
-					{
-						"text": "He was evidently well acquainted with the life of Christ and the history of the Church, and alludes at times to well-known Christian sayings; but how far in so doing he quotes the Gospels and Epistles, is not easily determined."
-					},
-					{
-						"text": "Thus it has been supposed, and with some probability, that in referring to the miracles of Christ he must allude to the Gospels as recording them."
-					},
-					{
-						"text": "But it must be observed that he ascribes to Christ a miracle of which the New Testament makes no mention,—of being understood by men of different nations, as though He spoke in several languages at the same moment."
-					},
-					{
-						"text": "So, too, his account of the passion differs from that of the New Testament."
-					},
-					{
-						"text": "On the other hand, we find that he speaks of Christ as having taught men \"not to return evil for evil,\" as \"the way of salvation, the door of life, by whom alone there is access to the light,\" and as having been seen by \"countless numbers of men\" after His resurrection."
-					},
-					{
-						"text": "Still further, he makes frequent references to accounts of Christ written by the apostles and handed down to their followers, and asks why their writings should be burned."
-					},
-					{
-						"text": "In one place, also, he asks, \"Have the well-known words never rung in your ears, that the wisdom of man is foolishness with God?\" where the reference seems to be very distinct; but he nowhere says that he is quoting, or mentions any books."
-					},
-					{
-						"text": "This is, however, less remarkable when we take into account his mode of dealing with Clemens Alexandrinus and Cicero."
-					},
-					{
-						"text": "The fourth, fifth, and sixth books are based on these two authors, and from Clement, in particular, whole sentences are taken unchanged."
-					},
-					{
-						"text": "Yet the only reference made to either is the very general allusion in the third and fourth books."
-					},
-					{
-						"text": "On the other hand, he quotes frequently and refers distinctly to many authors, and is especially careful to show that he has good authority for his statements, as will be seen by observing the number of books to which he refers on the mysteries and temples."
-					},
-					{
-						"text": "If we bear this in mind, the principle which guided him seems to have been, that when he has occasion to quote an author once or twice, he does so by name, but that he takes it for granted that every one knows what are the great sources of information, and that it is therefore unnecessary to specify in each case what is the particular authority."
-					},
-					{
-						"text": "There are many interesting questions connected with his subject, but these we must for the present leave untouched."
-					},
-					{
-						"text": "No other works by Arnobius have been preserved, and only two mss."
-					},
-					{
-						"text": "are known to exist."
-					},
-					{
-						"text": "Of these, the one in Brussels is merely a transcript of that preserved in the public library at Paris, on which all editions have been based."
-					},
-					{
-						"text": "This is a ms."
-					},
-					{
-						"text": "of the ninth or tenth century, and contains the Octavius of Minucius Felix immediately after the seventh book adversus Gentes, in consequence of which that treatise was at first printed as the eighth book of Arnobius."
-					},
-					{
-						"text": "Although it has been collated several times, we are still in doubt as to its true readings,—Hildebrand, who last examined it, having done so with too little care."
-					},
-					{
-						"text": "The first edition was printed at Rome in , and was followed by that of Gelenius, in which much was done for the emendation of the text; but arbitrary conjectures were too frequently admitted."
-					},
-					{
-						"text": "Next in order follow those of Canterus, who did especial service by pointing out what use Arnobius has made of Clement, Ursinus, Elmenhorst, Stewechius, Heraldus, and the Leyden variorum edition, based on a recension of the text by Salmasius."
-					},
-					{
-						"text": "The later editions are those of Oberthür, whose text is adopted by Orelli, Hildebrand, and Oehler."
-					},
-					{
-						"text": "Oberthür's edition is of little importance, and that of Orelli is valuable solely as a collection of notes gathered from many sources into a crude and undigested mass."
-					},
-					{
-						"text": "Hildebrand seems to have taken too little pains with his work; and Oehler, whose critical sagacity and industry might have given us a most satisfactory edition, was unfortunately hampered by want of space."
-					},
-					{
-						"text": "No edition of Arnobius has been published in England; and the one Englishman who has taken any pains with this author seems to be John Jones, who, under the pseudonym of Leander de St."
-					},
-					{
-						"text": "Martino, prepared summaries, which were added to a reprint of Stewechius at Douay,."
-					},
-					{
-						"text": "As this edition has not come into our hands, we are unable to speak of it more particularly."
-					},
-					{
-						"text": "It will be observed that adversus Gentes is the title of this work in all editions except those of Hildebrand and Oehler, in which it is adversus Nationes."
-					},
-					{
-						"text": "The difference is very slight, but it may be well to mention that neither can be said with certainty to be correct."
-					},
-					{
-						"text": "The first is the form used by Jerome in two passages of his writings; and as he must have seen earlier mss."
-					},
-					{
-						"text": "than that now extant, he is supposed to give the title which he found in them."
-					},
-					{
-						"text": "In the Paris ms."
-					},
-					{
-						"text": ", however, at the end of the second book, the subscription is, \"The second book of Arnobius adversus Nationes ends;\" and it has been argued that, as the copyist would hardly have gone so far astray, while it is quite possible that Jerome did not attempt to do more than indicate generally the purpose of the book without quoting its titlepage, this must be the true title."
-					},
-					{
-						"text": "The first page of the existing ms."
-					},
-					{
-						"text": "is torn away, and the question remains therefore undecided: fortunately its decision is not of the slightest importance."
-					},
-					{
-						"text": "This translation of Arnobius was begun in the hope that it would be possible to adhere throughout to the text of Orelli, and that very little attention to the various readings would be found necessary."
-					},
-					{
-						"text": "This was, however, found to be impossible, not merely because Hildebrand's collation of the Paris ms."
-					},
-					{
-						"text": "showed how frequently liberties had been taken with the text, but on account of the corrupt state of the text itself."
-					},
-					{
-						"text": "It has therefore been thought advisable to lay before the reader a close translation founded on the ms."
-					},
-					{
-						"text": ", so far as known."
-					},
-					{
-						"text": "A conjectural reading has in no case been adopted without notice."
-					},
-					{
-						"text": "Throughout the Work use has been made of four editions,—Oehler's, Orelli's, Hildebrand's, and that of Leyden; other editions being consulted only for special reasons."
-					},
-					{
-						"text": "It is to be regretted that our knowledge of the single ms."
-					},
-					{
-						"text": "of Arnobius is still incomplete; but it is hoped that this will soon be remedied, by the publication of a revised text, based upon a fresh collation of the ms."
-					},
-					{
-						"text": ", with a complete apparatus and a carefully digested body of notes."
-					}
-				]
-			}
-		]
-	},
-	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book I",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -31315,7 +30306,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book II",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -32631,7 +31622,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book III",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -33369,7 +32360,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book IV",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -33999,7 +32990,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book V",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -34940,7 +33931,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book VI",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -35378,7 +34369,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Arnobius: Adversus Gentes Book VII",
 		"chapters": [
 			{
 				"chapter": 1,

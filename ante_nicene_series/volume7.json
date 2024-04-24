@@ -1,6 +1,6 @@
 [
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Introductory Notice",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -289,7 +289,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book I",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -2865,7 +2865,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book II",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -5115,7 +5115,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book III",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -7934,7 +7934,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book IV",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -10480,7 +10480,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book V",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -12408,7 +12408,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book VI",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -15118,7 +15118,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Divine Institutes Book VII",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -17389,7 +17389,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: The Epitome of the Divine Institutes",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -21173,7 +21173,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: A Treatise on the Anger of God Addressed to Donatus",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -22991,7 +22991,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: On The Workmanship of God or the Formation of Man",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -24494,7 +24494,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Of the Manner in Which the Persecutors Died",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -26810,7 +26810,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Lactantius: Fragments",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -26865,7 +26865,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Venatius: On Easter",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -27022,7 +27022,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Asterius Urbanus: The Extant Writings",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -27283,7 +27283,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Victorinus: On the Creation of the World",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -27458,7 +27458,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Victorinus: Commentary on the Apocalypse of the Blessed John",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29405,7 +29405,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Dionysius: Against the Sabellians",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -29561,61 +29561,8 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Teaching of the Twelve Apostles",
 		"chapters": [
-			{
-				"chapter": 1,
-				"verses": [
-					{
-						"text": "The Teaching of the Twelve Apostles: Introductory Note:  The interest so generally excited in the learned world by the (\"Bryennios\") discovery of a very primitive document, rendered it indispensable that this republication should be enriched by it, in connection with the Apostolic Constitutions (so called), which had been reserved for the concluding volume of the series."
-					},
-					{
-						"text": "The critics were greatly divided as to the genuineness of the Bryennios ms ; and, in order to gain time, I had relegated the Constitutions, with this document as its sequel or its preface, to a place with the Apocrypha Dissatisfied with my own impressions and conjectures, I soon decided that the task of editing the Teaching, as the Bryennios document is entitled, must be entrusted to an \"expert,\" and that, if possible, it should be taken in hand with the Constitutions In order to give sufficient time, I entrusted the task, a year ago, to the well-qualified head and hands of Professor Riddle of Hartford, who most kindly accepted my proposals, and who now enables me to present his completed work to the public with the volume to which it properly belongs."
-					},
-					{
-						"text": "It will be hailed by literary men generally as a timely reviewal of the whole subject, nor should I be surprised to find Dr."
-					},
-					{
-						"text": "Riddle's estimate of the Teaching accepted as the most important contribution yet made to the literature of inquiry touching its worth and character."
-					},
-					{
-						"text": "Appearing, as it does in this place, in close relations with the Constitutions, and with the editorial comparisons so felicitously introduced by the learned annotator, the student will find himself in a position to weigh and to decide for himself all the questions that have been raised in previous examinations of the case."
-					},
-					{
-						"text": "Without risking any judgment of my own upon the decisions which have been reached by Dr."
-					},
-					{
-						"text": "Riddle in the exercise of his great critical skill, I cannot withhold an expression of gratitude for the impartiality and scientific conscientiousness with which he has handled the matter."
-					},
-					{
-						"text": "Uninfluenced by prepossessions, he presents the case with judicial calmness and with due consideration of what others have suggested."
-					},
-					{
-						"text": "I am gratified to find that impressions of my own are strengthened by his conclusions."
-					},
-					{
-						"text": "In an early notice of the Bryennios discovery, contributed to a leading publication, I stated my surmise that the Teaching, and its parallels in the Constitutions and other primitive writings, would prove to be based upon some original document, common to all."
-					},
-					{
-						"text": "Even Lactantius, in his Institutes, shapes his instructions to Constantine by the Duoe Vioe, which seem to have been formulated in the earliest ages for the training of catechumens."
-					},
-					{
-						"text": "The elementary nature and the \"childishness\" of the work are thus accounted for, and I am sure that the \"mystagogic\" teaching of Cyril receives light from this view of the matter."
-					},
-					{
-						"text": "This work was \"food for lambs:\" it was not meant to meet the wants of those \"of full age\"."
-					},
-					{
-						"text": "It may prove, as Dr."
-					},
-					{
-						"text": "Riddle hints, that the Teaching as we have it, in the Bryennios document, is tainted by the views of some nascent sect or heresy, or by the incompetency of some obscure local church as yet unvisited by learned teachers and evangelists."
-					},
-					{
-						"text": "It seems to me not improbably influenced by views of the charismata, which ripened into Montanism, and which are illustrated by the warnings and admonitions of Hermas."
-					}
-				]
-			},
 			{
 				"chapter": 2,
 				"verses": [
@@ -30280,7 +30227,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book I",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -31064,7 +31011,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book II",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -33553,7 +33500,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book III",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -34123,7 +34070,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book IV",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -34480,7 +34427,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book V",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -35421,7 +35368,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book VI",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -36695,7 +36642,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book VII",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -37985,7 +37932,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Constitutions of the Holy Apostles Book VIII",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -40074,7 +40021,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "II Clement",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -40731,7 +40678,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "The Nicene Creed",
 		"chapters": [
 			{
 				"chapter": 1,
@@ -40798,7 +40745,7 @@
 		]
 	},
 	{
-		"book": "placeholder",
+		"book": "Early Liturgies",
 		"chapters": [
 			{
 				"chapter": 1,
